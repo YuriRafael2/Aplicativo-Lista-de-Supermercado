@@ -12,6 +12,10 @@ header {
     padding: 20px 0px;
 }
 
+body {
+    background-color: black;
+}
+
 .lista-cadastro {
     display: flex;
     margin: 20px auto;
@@ -78,6 +82,7 @@ h3.preco-produto span {
 .soma-produto {
     display: flex;
     margin: 20px;
+    color: white;
 }
 
 button {
