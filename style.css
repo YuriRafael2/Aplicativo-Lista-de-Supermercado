@@ -13,7 +13,7 @@ header {
 }
 
 body {
-    background-color: black;
+    background-color: #202124;
 }
 
 .lista-cadastro {
@@ -64,6 +64,7 @@ body {
 .lista-produtos-single h3 {
     padding: 0px 20px;   
     margin: 10px auto;
+    color: white;
 }
 
 h3.preco-produto {
